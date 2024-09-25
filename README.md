@@ -14,7 +14,7 @@ Welcome to the CodePen Editor project! This tool allows users to create and expe
 - **HTML**: Structure your content.
 - **CSS**: Style your applications.
 - **JavaScript**: Add interactivity and functionality.
-- 
+
 ## Usage
 
 1. Open `index.html` in your web browser.
